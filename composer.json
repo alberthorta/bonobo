@@ -1,0 +1,22 @@
+{
+    "name": "alberthorta/bonobo",
+    "description": "Mailchimp PHP Library",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Albert Horta Llobet",
+            "email": "albert@horta.name"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Bonobo\\": "src/"
+        }
+    },
+    "homepage": "https://github.com/alberthorta/bonobo",
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.4.0"
+    }
+}
